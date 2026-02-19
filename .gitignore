@@ -1,0 +1,10 @@
+*
+!.gitignore
+!colors/
+!colors/**
+!keymaps/
+!keymaps/**
+!options/
+!options/AceJump.xml
+!templates/
+!templates/**

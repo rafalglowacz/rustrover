@@ -1,0 +1,125 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="AceAction" />
+  <action id="AceDeclarationAction">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="AceLineAction" />
+  <action id="AceTargetAction" />
+  <action id="AceWordAction">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ActivateAIAssistantToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
+  <action id="GoToTab1">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="GoToTab2">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="GoToTab3">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="GoToTab4">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="GoToTab5">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="GoToTab6">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="GoToTab7">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="GoToTab8">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="InsertInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PerforceDirect.Edit" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="e" />
+    <keyboard-shortcut first-keystroke="meta alt e" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta f1" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ShowHoverInfo">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
+  <action id="com.anthropic.code.plugin.actions.OpenClaudeInTerminalAction" />
+</keymap>
