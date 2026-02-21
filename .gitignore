@@ -1,7 +1,6 @@
 *
 !.gitignore
-!colors/
-!colors/**
+!colors
 !keymaps/
 !keymaps/**
 !options/
